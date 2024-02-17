@@ -1,2 +1,3 @@
 # HSR_Speed
 Speed subject
+This code only to test double action-advance team with Sparkle and Bronya, i would update as i have new idea...
